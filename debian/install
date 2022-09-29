@@ -1,0 +1,3 @@
+*.ttf        usr/share/fonts/truetype/padauk
+web/*.woff   usr/share/fonts-sil-padauk/woff
+debian/bug/* usr/share/bug/fonts-sil-padauk
